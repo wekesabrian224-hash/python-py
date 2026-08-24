@@ -563,3 +563,10 @@ string conversions
   ==str()coverts the value to a string
   ==repr() returns string rep of an object
   ==format() formatting of strings using placeholders and variable substitution
+
+
+
+ control flow statements
+     1.if statement:- executes if the condiotoon of a statement is True
+     2.Elif statements:-checks additional statements if the previos conditions were false
+     3.Else:- executes if all the all the previous conditions were false 
