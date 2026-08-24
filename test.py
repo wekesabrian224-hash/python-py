@@ -550,3 +550,16 @@ print(person["skills"])
 # ============================================================
 # END OF PYTHON DATA STRUCTURES NOTES
 # ============================================================
+
+
+
+DATA TYPES
+sequence types ( list,tuple, range)
+mapping type (dict) dictionary
+set type ( set frozenset)
+
+
+string conversions 
+  ==str()coverts the value to a string
+  ==repr() returns string rep of an object
+  ==format() formatting of strings using placeholders and variable substitution
